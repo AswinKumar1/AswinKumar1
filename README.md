@@ -1,6 +1,6 @@
 # Hey, I'm Aswin Kumar J! 🚀
 
-📍 Baltimore, MD | ✉️ aswinkj1@umbc.edu | ☎️ +1-667-802-9383 | [LinkedIn](YourLinkedInProfile) | [GitHub](https://github.com/YourGitHubUsername)
+📍 MD | [LinkedIn](www.linkedin.com/in/aswin-kumar-903b6b77) | [GitHub](https://github.com/AswinKumar1)
 
 ## Journey So Far 🌟
 
