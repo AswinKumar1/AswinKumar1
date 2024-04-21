@@ -1,5 +1,5 @@
 # 💫 About Me:
-i'm currently working with ROS, LLM & OpenCV<br>Open to collaborating on LLM and blockchain space<br>I'm learning blockchain development<br>Fun Fact: I'm KOREAN 101 student. 
+I'm currently working with ROS, LLM & OpenCV<br>Open to collaborating on LLM and blockchain space<br>I'm learning blockchain development<br>Fun Fact: I'm KOREAN 101 student. 
 
 
 ## 🌐 Socials:
