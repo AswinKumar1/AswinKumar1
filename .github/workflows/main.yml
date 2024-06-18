@@ -19,8 +19,8 @@ jobs:
           node-version: '20'
 
       - name: Download Snake Action
-        uses: Platane/snk@master
         id: snake-gif
+        uses: Platane/snk@master
         with:
           github_user_name: AswinKumar1
           gif_out_path: dist/github-contribution-grid-snake.gif
@@ -32,8 +32,8 @@ jobs:
 
       - name: Set outputs
         run: |
-          echo "::set-output name=gif_path::dist/github-contribution-grid-snake.gif"
-          echo "::set-output name=svg_path::dist/github-contribution-grid-snake.svg"
+          echo "gif_path=dist/github-contribution-grid-snake.gif" >> $GITHUB_ENV
+          echo "svg_path=dist/github-contribution-grid-snake.svg" >> $GITHUB_ENV
 
       - name: Push changes
         uses: ad-m/github-push-action@master
