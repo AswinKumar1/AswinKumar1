@@ -30,6 +30,11 @@ jobs:
         if: ${{ failure() }}
         run: sleep 30
 
+      - name: Set outputs
+        run: |
+          echo "GIF_PATH=${{ steps.snake-gif.outputs.gif_out_path }}" >> $GITHUB_ENV
+          echo "SVG_PATH=${{ steps.snake-gif.outputs.svg_out_path }}" >> $GITHUB_ENV
+
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
