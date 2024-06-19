@@ -1,3 +1,5 @@
+![Header image](header-image.png)
+
 # 💫 About Me:
 Hello! I'm Aswin Kumar, a passionate software engineer with expertise in ROS, LLM, and OpenCV. I'm currently diving deep into blockchain development and always eager to collaborate on innovative projects. I'm also a KOREAN 101 student, which adds a fun twist to my learning journey.
 
