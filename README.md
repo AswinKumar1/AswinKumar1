@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working with ROS, LLM & OpenCV<br>Open to collaborating on LLM and blockchain space<br>I'm learning blockchain development<br>Fun Fact: I'm KOREAN 101 student. 
+Hello! I'm Aswin Kumar, a passionate software engineer with expertise in ROS, LLM, and OpenCV. I'm currently diving deep into blockchain development and always eager to collaborate on innovative projects. I'm also a KOREAN 101 student, which adds a fun twist to my learning journey.
 
 
 ## 🌐 Socials:
