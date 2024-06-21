@@ -22,7 +22,7 @@ Hello! I'm Aswin Kumar, a passionate software engineer with expertise in ROS, LL
 # Contributions
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AswinKumar1/AswinKumar1/output/github-contribution-grid-snake.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AswinKumar1/AswinKumar1/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AswinKumar1/AswinKumar1/output/github-contribution-grid-snake.svg" />
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/AswinKumar1/AswinKumar1/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
