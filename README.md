@@ -1,7 +1,7 @@
 ![Header image](header-image.png)
 
 # 💫 About Me:
-Hello! I'm Aswin Kumar, a passionate software engineer with expertise in ROS, LLM, and OpenCV. I'm currently diving deep into blockchain development and always eager to collaborate on innovative projects. I'm also a KOREAN 101 student, which adds a fun twist to my learning journey.
+Hello! I'm Aswin Kumar, a passionate software engineer with expertise in ROS, LLM, Agentic AI and OpenCV. I'm currently diving deep into blockchain development using Ethereum, Solidity, Foundry and RemixIDE and Quant models. I'm always eager to collaborate on innovative projects. I'm also a KOREAN 101 student, which adds a fun twist to my learning journey.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/aswin-kumar-903b6b77) 
